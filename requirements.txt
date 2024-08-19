@@ -1,0 +1,6 @@
+polars
+pandas
+matplotlib
+seaborn
+numpy
+fpdf
